@@ -1,5 +1,5 @@
 from django.shortcuts import render, redirect
-from .models import Category, Photo
+from .models import Category, Photos    
 from django.contrib.auth import authenticate, login, logout
 from django.contrib.auth.decorators import login_required
 from .forms import CustomUserCreationForm
