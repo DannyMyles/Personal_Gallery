@@ -49,7 +49,7 @@ click [here](https://me-gallery.herokuapp.com/)
 ### Cloning
 * In your terminal:
 
-        $ git clone
+        $ git clone https://github.com/DannyMyles/Personal_Gallery
         $ cd Personal_Gallery
 
 ## Running the Application
