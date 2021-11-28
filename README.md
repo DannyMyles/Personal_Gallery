@@ -1,4 +1,4 @@
-# ersonal_Gallery
+# Personal_Gallery
 
 ## Built By [DannyMyles](https://github.com/DannyMyles/)
 
