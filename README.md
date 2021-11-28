@@ -50,7 +50,7 @@ click [here](https://me-gallery.herokuapp.com/)
 * In your terminal:
 
         $ git clone
-        $ cd Gallery
+        $ cd Personal_Gallery
 
 ## Running the Application
 * Creating the virtual environment
